@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=image\ gender\ country
+comment0.target=PassportFace(int,\ java.lang.String,\ int)
+comment0.text=\r\n\ This\ class\ is\ used\ for\ creating\ and\ moving\ the\ face\ image\ on\ the\ passport.\ Upon\ instantiation,\ it\ requires\r\n\ the\:\r\n\ \ -\ Image,\ randomly\ generated\ and\ used\ to\ depict\ which\ image\ is\ placed\ down\r\n\ \ -\ Gender,\ use\ to\ choose\ which\ gender\ to\ get\ the\ image\ from\r\n\ \ -\ Country,\ used\ for\ spacing,\ and\ where\ the\ image\ should\ be\ placed\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveAccept()
+comment3.params=
+comment3.target=void\ moveDeny()
+comment4.params=
+comment4.target=void\ checkForMovement()
+numComments=5

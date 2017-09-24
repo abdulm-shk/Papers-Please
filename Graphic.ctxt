@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Graphic(java.lang.String)
+comment0.text=\r\n\ This\ class\ is\ used\ to\ display\ graphics\ on\ the\ screen.\ It\ uses\ abstraction\ to\ allow\ for\ multiple\ graphic\r\n\ objects\ from\ a\ single\ class\ to\ be\ instantiated.\ Upon\ instantiation,\ it\ requires\ a\ string\ as\ a\ type,\r\n\ and\ the\ string\ acts\ as\ the\ filename,\ without\ the\ extension\ suffix.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

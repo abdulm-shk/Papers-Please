@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Citation(java.lang.String)
+comment1.params=fine
+comment1.target=Citation(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkLocation()
+comment4.params=
+comment4.target=void\ addText()
+numComments=5

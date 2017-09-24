@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EndOfDayMenu()
+comment0.text=\r\n\ This\ class\ is\ displayed\ at\ the\ end\ of\ the\ day.\ It\ is\ triggered\ by\ the\ time\ hitting\ 5pm,\ or\ 17\:00.\ It\ requires\ the\ standard\ global\ player\r\n\ variables\ as\ parameters.\ It\ controls\ a\ lot\ of\ things,\ including\ the\ actions\ that\ the\ user\ does\ at\ the\ end\ of\ the\ day,\ choosing\ to\ heat\r\n\ up\ their\ apartment,\ feed\ and/or\ medicate\ their\ family.\ It\ also\ displays\ a\ summary\ of\ the\ day.\r\n
+numComments=1

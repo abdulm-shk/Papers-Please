@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=StampGraphic(java.lang.String)
+comment0.text=\r\n\ This\ is\ a\ sub\ class\ of\ Graphic.\r\n\ This\ class\ is\ seperate\ due\ to\ the\ passport\ stamp\ needing\ to\ move\ with\ the\ document,\ and\ also\ so\ that\ upon\r\n\ deletion\ of\ the\ stamp\ graphic,\ other\ graphics\ also\ don't\ get\ removed\ from\ the\ world.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveAccept()
+comment3.params=
+comment3.target=void\ moveDeny()
+comment4.params=
+comment4.target=void\ checkForMovement()
+numComments=5

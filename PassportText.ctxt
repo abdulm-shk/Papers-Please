@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=gi\ country
+comment0.target=PassportText(greenfoot.GreenfootImage,\ int)
+comment0.text=\r\n\ This\ class\ is\ used\ for\ creating\ and\ moving\ the\ text\ image\ on\ the\ passport.\ Upon\ instantiation,\ it\ requires\r\n\ the\:\r\n\ \ -\ GreenfootImage,\ created\ by\ the\ Passport\ class,\ used\ to\ set\ the\ image\r\n\ \ -\ Country,\ used\ for\ spacing,\ and\ where\ the\ image\ should\ be\ placed\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveAccept()
+comment3.params=
+comment3.target=void\ moveDeny()
+comment4.params=
+comment4.target=void\ checkForMovement()
+numComments=5
